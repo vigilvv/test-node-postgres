@@ -1,0 +1,19 @@
+{
+  "name": "learn-node-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "@types/pg": "^8.6.6"
+  }
+}
